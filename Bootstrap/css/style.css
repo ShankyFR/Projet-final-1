@@ -1,0 +1,25 @@
+body{
+    background: url(/img/firewatcher.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 90%;
+    height: 90%;
+    margin: ;
+}
+@media screen and (min-width 1300px) {
+}
+span{
+    color: red;
+}
+span1{
+    color: blue;
+}
+span_desc{
+    color: lightgreen;
+}
+span_conn{
+    color: lightslategray;
+}
+span_text {
+    color: black
+}
